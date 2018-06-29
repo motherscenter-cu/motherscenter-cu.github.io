@@ -1,0 +1,20 @@
+.page-header {
+  background-image: none;
+  background-color: #9085fe;
+  min-height: 300px;
+}
+
+@media screen and (min-width: 800px) {
+  .page-header-img {
+    background-image: url('../img/motherscenter_header.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #9085fe;
+    min-height: 300px;
+  }
+
+  .page-header-img > h1, h2 {
+    visibility: hidden;
+  }
+
+}

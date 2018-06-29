@@ -1,3 +1,8 @@
+---
+layout: default
+header_image: true
+---
+
  * [About Us](about.html)
  * [e-Loop](eloop.html)
  * [Events](events.html)
