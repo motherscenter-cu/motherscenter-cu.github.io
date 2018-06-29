@@ -13,7 +13,7 @@
     min-height: 300px;
   }
 
-  .page-header-img > h1, h2 {
+  .page-header-img > h1, .page-header-img > h2 {
     visibility: hidden;
   }
 
