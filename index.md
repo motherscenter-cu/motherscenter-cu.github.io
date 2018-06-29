@@ -3,6 +3,8 @@ layout: default
 header_image: true
 ---
 
+{{ site.description | default: site.github.project_tagline }}
+
 <table class="hoverable">
 <tr>
   <td><a href="about.html"><i class="material-icons md-96">face</i><br/>About Us</a></td>
