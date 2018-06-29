@@ -4,6 +4,12 @@
   min-height: 300px;
 }
 
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+.material-icons.md-96 { font-size: 96px; }
+
 @media screen and (min-width: 800px) {
   .page-header-img {
     background-image: url('../img/motherscenter_header.png');
@@ -17,4 +23,26 @@
     visibility: hidden;
   }
 
+}
+
+table.hoverable td {
+  text-align: center;
+  border: none;
+  width: 30%;
+  max-width: 30%;
+  min-width: 30%;
+}
+
+table.hoverable td:hover {
+  background-color: #dddddd;
+}
+
+table.hoverable a:link {
+  display: inline-block;
+  width: 100%;
+}
+
+table.hoverable a {
+  text-decoration: none;
+  color: #606c71;
 }
