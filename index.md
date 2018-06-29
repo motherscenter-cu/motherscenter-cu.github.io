@@ -3,12 +3,12 @@ layout: default
 header_image: true
 ---
 
-{{ site.description | default: site.github.project_tagline }}
+<h1 class="project-mission">{{ site.description | default: site.github.project_tagline }}</h1>
 
 <table class="hoverable">
 <tr>
   <td><a href="about.html"><i class="material-icons md-96">face</i><br/>About Us</a></td>
-  <td><a href="membership.html"><i class="material-icons md-96">redeem</i><br/>Membership</a></td>
+  <td><a href="membership.html"><i class="material-icons md-96">person_add</i><br/>Membership</a></td>
 </tr>
 
 <tr>
