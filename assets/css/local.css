@@ -51,3 +51,7 @@ h1.project-mission {
   text-align: center;
   color: #606c71;
 }
+
+table.hoverable {
+  display: table;
+}
