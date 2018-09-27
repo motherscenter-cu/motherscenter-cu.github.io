@@ -3,6 +3,9 @@ layout: default
 header_image: true
 ---
 
+<p style="text-align: center;"><button class="highlight" style="font-size:
+200%;">Sign up!</button></p>
+
 <h1 class="project-mission">{{ site.description | default: site.github.project_tagline }}</h1>
 
 <table class="hoverable">
