@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mothers' Center of Champaign County
-email: your-email@example.com
+email: motherscenterchampaign@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Mothers' Center of Champaign County is a local moms group providing support and
   social outlets for moms.
