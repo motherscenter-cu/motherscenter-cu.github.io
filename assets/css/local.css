@@ -8,7 +8,8 @@
 .material-icons.md-24 { font-size: 24px; }
 .material-icons.md-36 { font-size: 36px; }
 .material-icons.md-48 { font-size: 48px; }
-.material-icons.md-96 { font-size: 96px; color: #9085fe; }
+/*.material-icons.md-96 { font-size: 96px; color: #9085fe; }*/
+.material-icons.md-96 { font-size: 96px; color: #6257aa; }
 
 @media screen and (min-width: 800px) {
   .page-header-img {
@@ -47,11 +48,20 @@ table.hoverable a {
   color: #606c71;
 }
 
+h3.project-mission {
+  text-align: center;
+  color: #6257aa;
+}
+
 h1.project-mission {
   text-align: center;
-  color: #606c71;
+  color: #6257aa;
 }
 
 table.hoverable {
   display: table;
+}
+
+table.hoverable a {
+  color: #6257aa;
 }

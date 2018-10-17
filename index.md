@@ -3,10 +3,14 @@ layout: default
 header_image: true
 ---
 
-<p style="text-align: center;"><button class="highlight" style="font-size:
-200%;">Sign up!</button></p>
-
-<h1 class="project-mission">{{ site.description | default: site.github.project_tagline }}</h1>
+<div>
+  <div style="width: 65%; float: left;">
+    <h3 class="project-mission">{{ site.description | default: site.github.project_tagline }}</h3>
+  </div>
+  <div style="width: 35%; float: right;">
+    <p style="text-align: center;"><a href="https://goo.gl/forms/ncpTYh6j67qUXPEG3" style="color: #6257aa;"><button class="highlight" style="font-size: 200%;">Sign up!</button></a></p>
+  </div>
+</div>
 
 <table class="hoverable">
 <tr>
