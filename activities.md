@@ -6,9 +6,12 @@ title: Events
 Mothers' Center members enjoy a full calendar with moms-only social events,
 playgroups, family meet-ups, and community service opportunities!
 
+Non-members are invited to <b>two</b> free events before they
+<a href="https://goo.gl/forms/ncpTYh6j67qUXPEG3" style="color: #6257aa;"><button class="highlight" style="font-size: 125%;">Sign up!</button></a>
+
 ## Social Events
 
-![Book club!](assets/img/food_book2.jpg "Book clubs!"){: .right}
+![](assets/img/movies.jpg){: .right}
 
 Moms-only social events allow us to step away from our child rearing and work
 responsibilities, relax, remember who we are as individuals, and build strong
@@ -37,7 +40,7 @@ with us!
 
 <div markdown="1">
 
-![](assets/img/together.jpg){: .right}
+![](assets/img/kona_ice2.jpg){: .right}
 
 <div markdown="1">
 ## Family Meet-Ups

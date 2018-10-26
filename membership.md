@@ -3,6 +3,10 @@ layout: default
 title: Membership
 ---
 
+Non-members are invited to <b>two</b> free events before signing up!
+
+<p style="text-align: center;"><a href="https://goo.gl/forms/ncpTYh6j67qUXPEG3" style="color: #6257aa;"><button class="highlight" style="font-size: 200%;">Join Now!</button></a></p>
+
 # Benefits of Joining 
 
 Joining Mothers' Center of Champaign County allows you to:
@@ -36,8 +40,4 @@ Our dues are $40 annually and cover costs associated with being an independent
 as well as fun stuff like our annual open house, summer family picnic, new
 member social, holiday cookie exchange, and more group-hosted events. 
 
- * Link to Join Now
- * Link to Membership Guidelines
- * Big Tent Log-in 
- * http://www.bigtent.com/
-
+<p style="text-align: center;"><a href="https://goo.gl/forms/ncpTYh6j67qUXPEG3" style="color: #6257aa;"><button class="highlight" style="font-size: 200%;">Join Now!</button></a></p>

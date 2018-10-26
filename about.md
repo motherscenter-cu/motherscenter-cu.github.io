@@ -5,7 +5,7 @@ title: About Us
 
 ## About Us
 
-![Activities](assets/img/table.jpg){: .left}
+![Activities](assets/img/group_photo2.jpg){: .left}
 
 Mothers' Center of Champaign County is designed to support moms holistically as
 they navigate motherhood and the many other aspects of their lives and
