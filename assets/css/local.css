@@ -66,4 +66,22 @@ table.hoverable a {
   color: #6257aa;
 }
 
+.right {
+  float: right;
+  width: 300px;
+  padding-left: 2.0em;
+}
+
+.left {
+  float: left;
+  width: 300px;
+  padding-right: 2.0em;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #6257aa; }

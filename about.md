@@ -5,6 +5,8 @@ title: About Us
 
 ## About Us
 
+![Activities](assets/img/table.jpg){: .left}
+
 Mothers' Center of Champaign County is designed to support moms holistically as
 they navigate motherhood and the many other aspects of their lives and
 identities. While there are classes, articles, registries, and showers to help
@@ -35,6 +37,8 @@ challenging journey made easier with the support of other moms.
 
 ## Board of Directors 2018
 
+![Board Members](assets/img/board_photo2.jpg){: .right style="width: 400px;"}
+
  * Kelly Hoene, _President_
  * Meghan Kirkpatrick, _Secretary_
  * Rachel Dimock, _Treasurer_
@@ -45,7 +49,3 @@ challenging journey made easier with the support of other moms.
  * Allison Whitney, _Social Committee_
  * Kadriye Hieronymi, _Playgroup Committee_
  * Jacqueline Kronlund, _Playgroup Committee_
-
-Board Photo
-Link to Bylaws
-Link to Annual Budget

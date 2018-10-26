@@ -3,12 +3,12 @@ layout: default
 title: Events
 ---
 
-Mothers' Center members enjoy a full calendar with moms-only social events, playgroups, family meet-ups, and community service opportunities!
-
-Public Events Calendar - We can have this automatically update from a Google
-Calendar with social, playdate, and service 
+Mothers' Center members enjoy a full calendar with moms-only social events,
+playgroups, family meet-ups, and community service opportunities!
 
 ## Social Events
+
+![Book club!](assets/img/food_book2.jpg "Book clubs!"){: .right}
 
 Moms-only social events allow us to step away from our child rearing and work
 responsibilities, relax, remember who we are as individuals, and build strong
@@ -19,7 +19,11 @@ have included game nights, pottery painting, cooking classes, glass blowing,
 cookie exchange, favorite things party, and movie nights. It is amazing how
 restorative an evening out with good friends can be! 
 
+<div class="clearfix">&nbsp;</div>
+
 ## Playgroups
+
+![Playgroups](assets/img/playgroup2.jpg "Play groups"){: .left}
 
 The old parenting adage, "The days are long, but the years are short," could
 not be more true. To help you through some of those long days, we have regular
@@ -29,6 +33,13 @@ Events are held during the day, as well as in the evenings and on weekends, so
 working moms can join in the fun too. Life is better with friends; come play
 with us!
 
+<div class="clearfix">&nbsp;</div>
+
+<div markdown="1">
+
+![](assets/img/together.jpg){: .right}
+
+<div markdown="1">
 ## Family Meet-Ups
 
 While Mothers' Center is focused on the friendship and care of moms, we don't
@@ -42,3 +53,6 @@ Mother's Center prides itself not only on being a great support for moms, but
 also on helping out ALL members of the local community. Past Mothers'Center
 service projects include making blessing bags (toiletries & snacks) to hand out
 to homeless individuals, a children's book drive, and a diaper drive. 
+
+</div>
+</div>
