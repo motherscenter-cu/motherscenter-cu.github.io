@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Mothers' Center of Champaign County is a local moms group providing support and
   social outlets for moms.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://motherscenter-cu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  motherscentercu
 
