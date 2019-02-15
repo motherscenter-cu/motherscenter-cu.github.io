@@ -39,13 +39,14 @@ challenging journey made easier with the support of other moms.
 
 ![Board Members](assets/img/board_photo2.jpg){: .right style="width: 400px;"}
 
- * Kelly Hoene, _President_
- * Meghan Kirkpatrick, _Secretary_
+ * Krista Rogers, _President_
+ * Erin Ewoldt, _Secretary_
  * Rachel Dimock, _Treasurer_
- * Krista Rodgers, _Membership Coordinator_
- * Erin Ewoldt, _Marketing Coordinator_
- * Andrea Miller, _Moms-Helping-Moms Coordinator_
- * Alyssa Buckley, _Social Committee_
+ * Meghan Kirkpatrick, _Membership Coordinator_
+ * Jackie Kronlund, _Service Coordinator_
+ * Kadriye Hieronymi, _Moms-Helping-Moms Coordinator_
  * Allison Whitney, _Social Committee_
- * Kadriye Hieronymi, _Playgroup Committee_
- * Jacqueline Kronlund, _Playgroup Committee_
+ * Taylor Mochulsky, _Social Committee_
+ * VACANT, _Playgroup Committee_
+ * Erin Ewoldt, _Social Media Coordinator_
+ * Megan Fazekas-King, _Website Coordinator_
