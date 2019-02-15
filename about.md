@@ -35,7 +35,7 @@ independent 501(c)7 non-profit social group. Being a member is extremely
 rewarding for various reasons, but primarily because motherhood is a
 challenging journey made easier with the support of other moms.
 
-## Board of Directors 2018
+## Board of Directors 2019
 
 ![Board Members](assets/img/board_photo2.jpg){: .right style="width: 400px;"}
 
