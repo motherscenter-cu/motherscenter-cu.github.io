@@ -47,6 +47,6 @@ challenging journey made easier with the support of other moms.
  * Kadriye Hieronymi, _Moms-Helping-Moms Coordinator_
  * Allison Whitney, _Social Committee_
  * Taylor Mochulsky, _Social Committee_
- * VACANT, _Playgroup Committee_
+ * Amy Kuetemeyer and Kristin Tetzlaff, _Playgroup Committee_
  * Erin Ewoldt, _Social Media Coordinator_
  * Megan Fazekas-King, _Website Coordinator_
