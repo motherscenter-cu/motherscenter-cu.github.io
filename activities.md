@@ -57,5 +57,7 @@ also on helping out ALL members of the local community. Past Mothers'Center
 service projects include making blessing bags (toiletries & snacks) to hand out
 to homeless individuals, a children's book drive, and a diaper drive. 
 
+We are always looking for organizations to partner with for our service projects! If you are an organization interested in partnering with us, please <a href="mailto:motherscenterchampaign@gmail.com">contact us</a>.
+
 </div>
 </div>
