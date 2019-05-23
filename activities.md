@@ -22,8 +22,6 @@ have included game nights, pottery painting, cooking classes, glass blowing,
 cookie exchange, favorite things party, and movie nights. It is amazing how
 restorative an evening out with good friends can be! 
 
-<div class="clearfix">&nbsp;</div>
-
 ## Playgroups
 
 ![Playgroups](assets/img/playgroup2.jpg "Play groups"){: .left}
@@ -53,7 +51,7 @@ as our Father's Day celebration at Riggs Beer Company.
 ## Community Engagement
 
 Mother's Center prides itself not only on being a great support for moms, but
-also on helping out ALL members of the local community. Past Mothers'Center
+also on helping out ALL members of the local community. Past Mothers' Center
 service projects include making blessing bags (toiletries & snacks) to hand out
 to homeless individuals, a children's book drive, and a diaper drive. 
 
