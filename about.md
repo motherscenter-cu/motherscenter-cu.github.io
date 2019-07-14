@@ -46,7 +46,7 @@ challenging journey made easier with the support of other moms.
  * Jackie Kronlund, _Service Coordinator_
  * Kadriye Hieronymi, _Moms-Helping-Moms Coordinator_
  * Allison Whitney, _Social Committee_
- * Taylor Mochulsky, _Social Committee_
- * Amy Kuetemeyer and Kristin Tetzlaff, _Playgroup Committee_
+ * Amy Kuetemeyer, _Playgroup Committee_
+ * Kristin Tetzlaff, _Playgroup Committee_
  * Erin Ewoldt, _Social Media Coordinator_
  * Megan Fazekas-King, _Website Coordinator_
